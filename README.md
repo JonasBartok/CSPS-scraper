@@ -23,8 +23,7 @@ This scraper searches the Czech Swimming database for people and filters results
 2. Create a `names_list.txt` file with names to search for:
    ```
    Jonáš BARTOK
-   John Smith
-   Anna Novakova
+   Lukáš Veselý
    ```
 
 3. Run the scraper:
